@@ -24,7 +24,7 @@ O objetivo principal do projeto é auxiliar estudantes e iniciantes a compreende
 Pessoas interessadas em aprender educação financeira, incluindo estudantes do ensino médio, superior e público geral.
 
 ## Justificativa
-A educação financeira é essencial para a tomada de decisões conscientes no cotidiano. O EduFinancesurge como uma solução tecnológica para reduzir a complexidade dos dados financeiros e torná-los mais compreensíveis.
+A educação financeira é essencial para a tomada de decisões conscientes no cotidiano. O EduFinance surge como uma solução tecnológica para reduzir a complexidade dos dados financeiros e torná-los mais compreensíveis.
 
 ## Autores
 Mohamad Assaf & Ygor Bittencourt
